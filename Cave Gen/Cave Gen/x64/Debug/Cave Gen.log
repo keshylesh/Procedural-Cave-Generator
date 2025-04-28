@@ -1,1 +1,69 @@
-﻿
+﻿  main.cpp
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\cube.h(25,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\cube.h(26,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\cube.h(28,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\cube.h(29,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\cube.h(31,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\cube.h(32,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(51,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(52,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(53,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(105,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(130,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(167,22): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(218,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(218,10): warning C4244:         with
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(218,10): warning C4244:         [
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(218,10): warning C4244:             T=float
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(218,10): warning C4244:         ]
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(219,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(219,10): warning C4244:         with
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(219,10): warning C4244:         [
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(219,10): warning C4244:             T=float
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(219,10): warning C4244:         ]
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(220,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(220,10): warning C4244:         with
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(220,10): warning C4244:         [
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(220,10): warning C4244:             T=float
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(220,10): warning C4244:         ]
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\main.cpp(16,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\main.cpp(82,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\main.cpp(83,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\main.cpp(86,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\main.cpp(87,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\main.cpp(88,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\main.cpp(89,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\main.cpp(95,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\main.cpp(249,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\src\lsystem.h(181,1): warning C4715: 'LSystem::searchWeights': not all control paths return a value
+  Cave Gen.vcxproj -> C:\Users\kesha\OneDrive\Desktop\Purdue\Spring 25\CS334\PCG\Cave Gen\x64\Debug\Cave Gen.exe
